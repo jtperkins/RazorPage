@@ -28,3 +28,8 @@ D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\ATD.Views.pd
 D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\ATD.dll
 D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\ATD.pdb
 D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\ATD.csproj.CopyComplete
+D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+D:\Web Design\alt-tab-design\RazorPages\ATD\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
